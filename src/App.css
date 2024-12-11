@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #F5F5F5;
+  color: #333;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.btn-primary {
+  background-color: #FFD700;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #FFEA8A;
+}
